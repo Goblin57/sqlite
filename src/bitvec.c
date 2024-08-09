@@ -1,4 +1,4 @@
-// Test with action
+// Test with action.
 /*
 ** 2008 February 16
 **
